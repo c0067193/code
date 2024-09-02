@@ -1,5 +1,5 @@
 import unittest
-from my_app import app
+from mytest_app import app
 
 class SystemMaintenanceScenarioTests(unittest.TestCase):
 
